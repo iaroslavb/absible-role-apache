@@ -5,6 +5,14 @@
     name:   apache2
     state:  latest
 
+- name: add ports.conf
+  template:
+    src: ports.conf.j2
+    dest: /etc/apache2/ports.conf
+    owner: root
+    group: root
+    mode: 0755
+
 - name: apache2 service state
   service:
     name:     apache2
