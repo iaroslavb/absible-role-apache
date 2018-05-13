@@ -29,10 +29,11 @@ Example Playbook
 TODO
 
 Including an example of how to use your role (for instance, with variables passed in as parameters) is always nice for users too:
-
+```yaml
     - hosts: servers
       roles:
          - { role: username.rolename, x: 42 }
+```
 
 License
 -------
@@ -42,4 +43,4 @@ MIT
 Author Information
 ------------------
 
-Created By Yaroslav Bannov
+Created by Yaroslav Bannov
