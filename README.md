@@ -1,7 +1,10 @@
 Ansible Role: Apache Webserver
 =========
 
-Aansible role which install Apache webserver on Ubuntu Linux
+[![Build Status](https://travis-ci.org/iaroslavb/ansible-role-apache.svg?branch=master)](https://travis-ci.org/iaroslavb/ansible-role-apache)
+
+
+Ansible role which installs Apache webserver on Ubuntu Linux
 
 Requirements
 ------------
