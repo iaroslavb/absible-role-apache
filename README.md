@@ -1,3 +1,5 @@
+<img style="float:left" alight="left" height="128px" width="128px" src="https://github.com/iaroslavb/ansible-role-apache/raw/master/apache_logo.png">
+
 Ansible Role: Apache Webserver
 =========
 
